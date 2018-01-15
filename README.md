@@ -17,3 +17,5 @@ Tag | Description
 `mozgiii/gometalinter-docker:alpine` | Built from `golang:alpine` and `master` version of `gometalinter` straight from `github.com/alecthomas/gometalinter`
 `mozgiii/gometalinter-docker:v2` | Built from `golang:latest` and `gopkg.in/alecthomas/gometalinter.v2` version of `gometalinter`
 `mozgiii/gometalinter-docker:v2-alpine` | Built from `golang:alpine` and `gopkg.in/alecthomas/gometalinter.v2` version of `gometalinter`
+`mozgiii/gometalinter-docker:stable` | Configured to be the same as the latest `gopkg.in` / `golang:latest` version
+`mozgiii/gometalinter-docker:stable-alpine` | Configured to be the same as the latest `gopkg.in` / `golang:alpine` version
